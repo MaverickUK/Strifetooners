@@ -8,3 +8,5 @@ I've recently been learning Vue and decided it would be interesting to put my kn
 This builds on earlier work of the Strife static comic editor (Citation needed) and the [Total Strife](https://github.com/MaverickUK/Total-Strife) JavaScript based game engine.
 
 Although Cartooners is a key inspriation, it's more likely that a Macromedia Flash keyframe style of animation will be used.
+
+![Cartooners editor](CartoonersExample.jpg)
